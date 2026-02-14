@@ -83,5 +83,6 @@ This project showcases strong skills in data cleaning, Excel analytics, dashboar
 ---
 
 ## Visual Dashboard Preview
-![Coffe_Sales_Dashboard]([https://github.com/user-attachments/assets/73fdc21c-183c-4f9b-bbeb-b3d75ba4428b](https://github.com/stefanoq58/Coffee-Shop-Sales-Performance/blob/main/Coffee%20Shop%20Visual%20Dashboard.jpg?raw=true))
+![Coffe_Sales_Dashboard](<img width="1934" height="897" alt="image" src="https://github.com/user-attachments/assets/7b4110c7-ae19-44e2-b650-99b89037bba5" />
+)
 
