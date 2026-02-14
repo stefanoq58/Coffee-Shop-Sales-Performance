@@ -8,6 +8,7 @@ The objective of this project was to analyze a full year of café transaction da
 Using Excel as the primary analytics environment, the project focused on transforming a large raw transactional dataset into a clean, interactive dashboard that highlights key business metrics, including total revenue, transaction volume, item popularity, and monthly performance trends. 
 
 The final deliverable is a fully interactive Excel dashboard powered by slicers, KPI cards, and PivotCharts, enabling users to explore sales behavior across items, months, locations, and payment methods.
+
 Data Source extracted from Kaggle: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/code
 
 ---
