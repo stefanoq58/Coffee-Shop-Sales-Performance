@@ -3,7 +3,11 @@ A Data Analytics Project Using Excel, Power Query &amp; PivotTables
 ---
 
 ## Overview
-The objective of this project was to analyze a full year of café transaction data and uncover insights related to revenue trends, item performance, customer purchasing behavior, and operational patterns. Using Excel as the primary analytics environment, the project focused on transforming a large raw transactional dataset into a clean, interactive dashboard that highlights key business metrics, including total revenue, transaction volume, item popularity, and monthly performance trends. The final deliverable is a fully interactive Excel dashboard powered by slicers, KPI cards, and PivotCharts, enabling users to explore sales behavior across items, months, locations, and payment methods.
+The objective of this project was to analyze a full year of café transaction data and uncover insights related to revenue trends, item performance, customer purchasing behavior, and operational patterns. 
+
+Using Excel as the primary analytics environment, the project focused on transforming a large raw transactional dataset into a clean, interactive dashboard that highlights key business metrics, including total revenue, transaction volume, item popularity, and monthly performance trends. 
+
+The final deliverable is a fully interactive Excel dashboard powered by slicers, KPI cards, and PivotCharts, enabling users to explore sales behavior across items, months, locations, and payment methods.
 
 ---
 
@@ -73,6 +77,7 @@ The final dashboard enables café managers or stakeholders to quickly answer que
 - How do payment methods and locations influence sales?
   
 This project showcases strong skills in data cleaning, Excel analytics, dashboard design, and business insight generation.
+
 ---
 
 ## Visual Dashboard Preview
