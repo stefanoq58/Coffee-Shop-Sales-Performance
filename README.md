@@ -51,20 +51,20 @@ The project aimed to:
 ## Key Insights
 Based on 9,044 transactions and $79,921 in total revenue, the analysis reveals several meaningful business insights:
 1. Salad is the top revenue‑generating item
-  - Salad produced $18,200, the highest among all items
-  - Sandwiches and smoothies also performed strongly, generating $13,068 and $12,776, respectively
+    - Salad produced $18,200, the highest among all items
+    - Sandwiches and smoothies also performed strongly, generating $13,068 and $12,776, respectively
 2. Coffee is the most frequently purchased item
-  - Coffee appears in 1,234 transactions, making it the most popular item by volume
-  - Salad, cookie, and tea also show strong transaction counts
+    - Coffee appears in 1,234 transactions, making it the most popular item by volume
+    - Salad, cookie, and tea also show strong transaction counts
 3. Monthly revenue is stable with a peak in October
-  - October generated the highest monthly revenue at $7,040
-  - Most months fall between $6,100–$6,900, indicating consistent customer demand
+    - October generated the highest monthly revenue at $7,040
+    - Most months fall between $6,100–$6,900, indicating consistent customer demand
 4. Average Transaction Value (ATV) remains steady
-  - ATV ranges from $8.64 to $9.20 throughout the year
-  - April shows the highest ATV at $9.20, suggesting higher‑value purchases during that period
+    - ATV ranges from $8.64 to $9.20 throughout the year
+    - April shows the highest ATV at $9.20, suggesting higher‑value purchases during that period
 5. Payment methods and locations show diverse customer behavior
-  - Customers use a mix of cash, credit cards, and digital wallets
-  - In‑store purchases dominate, but takeaway and “other” locations contribute meaningfully
+    - Customers use a mix of cash, credit cards, and digital wallets
+    - In‑store purchases dominate, but takeaway and “other” locations contribute meaningfully
 ---
 
 ## Conclusion
