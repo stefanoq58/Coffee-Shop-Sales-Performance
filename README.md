@@ -4,7 +4,7 @@ A Data Analytics Project Using Excel, Power Query &amp; PivotTables
 ---
 
 ## Overview
-The objective of this project was to analyze a full year of café transaction data and uncover insights related to revenue trends, item performance, customer purchasing behavior, and operational patterns. 
+The objective of this project was to analyze a full year of a coffee shop's transaction data and uncover insights related to revenue trends, item performance, customer purchasing behavior, and operational patterns. 
 
 Using Excel as the primary analytics environment, the project focused on transforming a large raw transactional dataset into a clean, interactive dashboard that highlights key business metrics, including total revenue, transaction volume, item popularity, and monthly performance trends. 
 
@@ -16,7 +16,7 @@ Data Source extracted from Kaggle: https://www.kaggle.com/datasets/ahmedmohamed2
 
 ## Objectives
 The project aimed to:
-- Clean and standardize raw café transaction data for accurate reporting
+- Clean and standardize raw coffee shop transaction data for accurate reporting
 - Analyze revenue generation across different menu items
 - Identify which items drive the highest number of transactions
 - Evaluate monthly sales performance and spending patterns
@@ -72,7 +72,7 @@ Based on 9,044 transactions and $79,921 in total revenue, the analysis reveals s
 
 ## Conclusion
 This project demonstrates the ability to transform raw transactional data into a polished, interactive dashboard that supports business decision‑making. Through data cleaning/standardization, PivotTable modeling, and thoughtful dashboard design, the analysis provides clear insights into item performance, customer behavior, and revenue trends.
-The final dashboard enables café managers or stakeholders to quickly answer questions such as:
+The final dashboard enables coffee shop managers or stakeholders to answer questions such as:
 - Which items drive the most revenue?
 - Which items are most frequently purchased?
 - How does revenue vary month‑to‑month?
